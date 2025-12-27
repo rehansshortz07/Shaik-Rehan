@@ -48,7 +48,7 @@ nav a:hover {
 
 .home p {
   margin-top: 10px;
-  font-size: 18px;
+  font-size: 40px;
 }
 
 /* NOTES */
@@ -59,7 +59,7 @@ nav a:hover {
 
 .notes h2 {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .pdf-box {
@@ -91,6 +91,7 @@ footer a {
   text-decoration: none;
   margin: 0 5px;
 }
+
 
 
 
