@@ -91,6 +91,20 @@ footer a {
   text-decoration: none;
   margin: 0 5px;
 }
+@media (max-width: 600px) {
+  .home h1 {
+    font-size: 26px;
+  }
+
+  .home p {
+    font-size: 14px;
+  }
+
+  nav {
+    padding: 10px;
+  }
+}
+
 
 
 
