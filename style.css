@@ -31,7 +31,7 @@ nav a:hover {
 
 /* HOME */
 .home {
-  height: 25vh;
+  height: 10vh;
   background: linear-gradient(to right, #141e30, #243b55);
   color: white;
   display: flex;
@@ -91,5 +91,6 @@ footer a {
   text-decoration: none;
   margin: 0 5px;
 }
+
 
 
