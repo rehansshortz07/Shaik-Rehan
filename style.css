@@ -31,7 +31,7 @@ nav a:hover {
 
 /* HOME */
 .home {
-  height: 30vh;
+  height: 50vh;
   background: linear-gradient(to right, #141e30, #243b55);
   color: white;
   display: flex;
@@ -43,12 +43,12 @@ nav a:hover {
 }
 
 .home h1 {
-  font-size: 52px;
+  font-size: 40px;
 }
 
 .home p {
   margin-top: 10px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 /* NOTES */
@@ -104,6 +104,7 @@ footer a {
     padding: 10px;
   }
 }
+
 
 
 
